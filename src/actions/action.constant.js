@@ -1,0 +1,4 @@
+export const SET_YEAR = "SET_YEAR";
+export const SET_YEAR_PENDING = "SET_YEAR_PENDING";
+export const SET_YEAR_FULFILLED = "SET_YEAR_FULFILLED";
+export const SET_YEAR_REJECTED = "SET_YEAR_REJECTED";
